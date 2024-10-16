@@ -1,0 +1,29 @@
+{
+  "menu": {
+    "item2": "Tentang saya",
+    "item3": "Skill",
+    "item6": "kontak"
+  },
+
+  "home": {
+    "home_text-1": "Halo Semua perkenalkan Saya!",
+    "home_text-3": "Saya seorang programming !",
+    "parrafo-info": "Mahasiswa Rekayasa Perangkat Lunak dan pemrograman yang berfokus pada Pengembangan Web Frontend. Sebagai orang yang menyukai desain intuitif dan estetis, saya berusaha keras untuk membuat proyek yang memberikan pengalaman terbaik bagi pengguna.",
+    "contact_button": "Kontak"
+  },
+
+  "About": {
+    "title": "Tentang saya",
+    "texto_About": "Saya seorang mahasiswa Rekayasa Perangkat Lunak dan mahasiswa Pengembangan Web otodidak yang berfokus pada pemrograman Frontend.<br/>Saya bercita-cita untuk mendapatkan pekerjaan di dunia Web Development, mendapatkan pengalaman, pengetahuan baru dan memperkuat kehidupan profesional saya.<br /><br />Saya orang yang berempati dan antusias, dengan keterampilan yang berfokus pada kerja tim, komunikasi yang tegas, pemecahan masalah, bertanggung jawab dan proaktif, saya suka belajar dari orang lain dan terus meningkatkan diri."
+  },
+
+  "Skill": {
+    "title": "Skill"
+  },
+
+  "Contact": {
+    "title": "kontak",
+    "text": "isi di bawah ini untuk menghubungi saya",
+    "btn-enviar": "kirim"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "menu": {
+    "item2": "About me",
+    "item3": "Skills",
+    "item6": "Contact"
+  },
+
+  "home": {
+    "home_text-1": "Hello everyone, let me introduce myself!",
+    "home_text-3": "I am a programmer !",
+    "parrafo-info": "Software Enggenering and programming student focusing on Frontend Web Development. As a person who loves intuitive and aesthetic design I strive to create projects that provide the best experience for users.",
+    "contact_button": "Contact"
+  },
+
+  "About": {
+    "title": "About me",
+    "texto_About": "I'm a Software Enggenering student and a self-taught Web Development student focused on Frontend programming.<br>I aspire to get a job in the Web Development world, gain experience, new knowledge and strengthen my professional life.<br><br>I'm an empathetic and enthusiastic person, with skills focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and continuously improve myself."
+  },
+
+  "Skill": {
+    "title": "Skills"
+  },
+
+  "Contact": {
+    "title": "Contact",
+    "text": "fill in below to contact me",
+    "btn-enviar": "Send"
+  }
+}
